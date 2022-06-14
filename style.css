@@ -1,0 +1,19 @@
+#box1{
+  height: 200px; /* Висота блока */
+  width: 200px; /* Ширина блока  */
+  background: #ffff99; /* Жовтий фон*/
+  font-size: 250%; /*Розмір блока  */
+}
+#box2{
+  height: 200px;
+  width: 200px; /* Розміри блока*/
+  background: #809fff; /* Синій фон*/
+
+}
+#box3{
+  height: 200px;
+  width: 200px; /* Розмір блока*/
+  background:  #ff6666
+; /* Червоний фон*/
+
+}
